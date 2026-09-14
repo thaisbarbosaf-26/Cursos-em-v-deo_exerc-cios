@@ -2,7 +2,7 @@
 
 import pygame
 pygame.init()
-pygame.mixer.music.load("exercicio021_music.mp3")
+pygame.mixer.music.load("Usando Modulos/exercicio021_music.mp3")
 pygame.mixer.music.play()
 
 # OPÇÃO 1Mantém o código em loop enquanto a música estiver tocando
